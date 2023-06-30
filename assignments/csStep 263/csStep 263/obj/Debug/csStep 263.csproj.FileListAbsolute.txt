@@ -1,0 +1,7 @@
+C:\Users\Marco Antonio\source\repos\csStep 263\csStep 263\bin\Debug\csStep 263.exe.config
+C:\Users\Marco Antonio\source\repos\csStep 263\csStep 263\bin\Debug\csStep 263.exe
+C:\Users\Marco Antonio\source\repos\csStep 263\csStep 263\bin\Debug\csStep 263.pdb
+C:\Users\Marco Antonio\source\repos\csStep 263\csStep 263\obj\Debug\csStep 263.csproj.AssemblyReference.cache
+C:\Users\Marco Antonio\source\repos\csStep 263\csStep 263\obj\Debug\csStep 263.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\source\repos\csStep 263\csStep 263\obj\Debug\csStep 263.exe
+C:\Users\Marco Antonio\source\repos\csStep 263\csStep 263\obj\Debug\csStep 263.pdb
