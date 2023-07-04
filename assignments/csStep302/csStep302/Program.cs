@@ -12,13 +12,16 @@ namespace csStep302
         {
             //instantiating Employee class
             Employee employee = new Employee();
-
             //giving values to first and last name properties
             employee.firstName = "Sample";
             employee.lastName = "Student";
-
             //calling SayName() method
             employee.SayName();
+
+            //making a new object of type IQuittable
+            IQuittable quittableEmployee = new Employee();
+            //calling Quit() method to display employee has quit
+            quittableEmployee.Quit();
         }
     }
 }
