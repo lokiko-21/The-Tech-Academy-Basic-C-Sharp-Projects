@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csStep390", "csStep390\csStep390.csproj", "{801CA23A-29FE-46D4-B0FA-88652EA5AFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{801CA23A-29FE-46D4-B0FA-88652EA5AFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801CA23A-29FE-46D4-B0FA-88652EA5AFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801CA23A-29FE-46D4-B0FA-88652EA5AFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801CA23A-29FE-46D4-B0FA-88652EA5AFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB77528F-C05F-4493-9CED-058DE68474F2}
+	EndGlobalSection
+EndGlobal
