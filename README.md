@@ -1,11 +1,11 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-Here are some of the projects that I made using C# and .NET Framework
+### Here are some of the projects that I made using C# and .NET Framework
 
-* Newsletter 
-* Car Insurance
+* Newsletter appication
+* Car Insurance application
 
 ### Newsletter App  
-This project is an MVC web application that acts as a newsletter application in which users
+This project is an MVC web application that acts as a newsletter application where users
 can sign up for a subscription. It takes the user's information and adds it to a database. I
 also added an admin page that allows one to view all the subscriptions.
 
